@@ -4,4 +4,6 @@ This is an application which shows a list of streamers on Twitch Tv. You can see
 
 HTML, CSS, Bootstrap and jQuery are used for coding.
 
+API used: https://wind-bow.gomix.me/twitch-api/channels/
+
 Link to see the application:  https://codepen.io/Ismail-Dzigal/full/aVOpdd/    
